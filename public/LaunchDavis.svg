@@ -1,0 +1,32 @@
+<!-- Launch Davis Rocket Logo (Centered with Flames, No Text) -->
+<svg 
+    width="200" 
+    height="200" 
+    viewBox="0 0 200 200" 
+    fill="none" 
+    xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background: Aggie Blue -->
+  <rect width="200" height="200" fill="#022851" />
+
+  <!-- Rocket Body (Aggie Gold) -->
+  <rect x="80" y="50" width="40" height="80" fill="#FFBF00" />
+  
+  <!-- Ellipse (top of rocket) -->
+  <ellipse cx="100" cy="50" rx="20" ry="10" fill="#FFBF00" />
+  
+  <!-- Fins (left & right) -->
+  <polygon points="80,90 60,120 80,120" fill="#FFBF00" />
+  <polygon points="120,90 140,120 120,120" fill="#FFBF00" />
+  
+  <!-- Bottom Tail Fin -->
+  <polygon points="80,130 100,150 120,130" fill="#FFBF00" />
+
+  <!-- Window (Aggie Blue) -->
+  <circle cx="100" cy="80" r="8" fill="#022851" />
+
+  <!-- Flames (Centered) -->
+  <polygon points="90,150 100,180 110,150" fill="#FF4500" />
+  <polygon points="85,155 100,185 115,155" fill="#FFA500" />
+  <polygon points="95,160 100,190 105,160" fill="#FFD700" />
+</svg>
